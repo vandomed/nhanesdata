@@ -23,6 +23,13 @@ loaded into R by running \code{data(filename)}, where filename is the file
 name listed on the NHANES website 
 (\url{http://www.cdc.gov/nchs/nhanes/nhanes_questionnaires.htm}).
 }
+\examples{
+# Load demographics from 1999-2000 and from 2001-2002
+data(demo)
+data(demo_b)
+
+
+}
 \references{
 Centers for Disease Control and Prevention (CDC). National Center for Health 
 Statistics (NCHS). National Health and Nutrition Examination Survey Data. 

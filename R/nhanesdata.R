@@ -18,6 +18,12 @@
 #'
 #'
 #' @author Dane R. Van Domelen \cr \email{vandomed@@gmail.com}
+#' 
+#' 
+#' @examples 
+#' # Load demographics from 1999-2000 and from 2001-2002
+#' data(demo)
+#' data(demo_b)
 #'
 #'
 #' @references

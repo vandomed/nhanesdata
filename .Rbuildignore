@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^get_data.R$
+^Thumbs.db$
+^misc$
+^.travis.yml$

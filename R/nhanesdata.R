@@ -1,7 +1,7 @@
 #' Data from Continuous NHANES (Years 1999-2016)
 #'
 #' Contains data from the National Health and Nutrition Examination Survey,
-#' years 1999-2016.
+#' years 1999-2016. Current as of Jan. 8, 2019.
 #'
 #' \tabular{ll}{
 #' Package: \tab nhanesdsata \cr
@@ -30,8 +30,8 @@
 #' Centers for Disease Control and Prevention (CDC). National Center for Health
 #' Statistics (NCHS). National Health and Nutrition Examination Survey Data.
 #' Hyattsville, MD: US Department of Health and Human Services, Centers for
-#' Disease Control and Prevention, 2003-6.
-#' \url{https://wwwn.cdc.gov/nchs/nhanes/Default.aspx}. Accessed Jan. 7, 2019.
+#' Disease Control and Prevention, 1999-2016.
+#' \url{https://wwwn.cdc.gov/nchs/nhanes/Default.aspx}. Accessed Jan. 8, 2019.
 #'
 #' Acknowledgment: This material is based upon work supported by the National
 #' Science Foundation Graduate Research Fellowship under Grant No. DGE-0940903.

@@ -5,3 +5,4 @@ r:
   - devel
 cache: packages
 warnings_are_errors: false
+sudo: false

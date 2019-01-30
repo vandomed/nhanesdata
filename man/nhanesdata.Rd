@@ -14,7 +14,7 @@ years 1999-2016. Current as of Jan. 8, 2019.
 Package: \tab nhanesdsata \cr
 Type: \tab Package \cr
 Version: \tab 1.1.1 \cr
-Date: \tab 2019-01-08 \cr
+Date: \tab 2019-01-30 \cr
 License: \tab GPL-3 \cr
 }
 

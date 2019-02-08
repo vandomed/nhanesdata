@@ -2,7 +2,7 @@ Package: nhanesdata
 Type: Package
 Title: Data from Continuous NHANES (Years 1999-2016)
 Version: 1.1.1
-Date: 2019-01-30
+Date: 2019-02-08
 Author: Dane R. Van Domelen
 Maintainer: Dane R. Van Domelen <vandomed@gmail.com>
 Description: Contains data from the National Health and Nutrition Examination Survey, years 1999-2016. Current as of Jan. 8, 2019.

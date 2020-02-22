@@ -1,7 +1,7 @@
 #' Data from Continuous NHANES (Years 1999-2016)
 #'
 #' Contains data from the National Health and Nutrition Examination Survey,
-#' years 1999-2016. Current as of Jan. 8, 2019.
+#' years 1999-2016. Current as of Feb. 22, 2020.
 #'
 #' \tabular{ll}{
 #' Package: \tab nhanesdsata \cr

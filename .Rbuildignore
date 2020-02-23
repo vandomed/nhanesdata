@@ -1,5 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^get_data.R$
+^README.*$
 ^Thumbs.db$
 ^misc$
